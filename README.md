@@ -1,4 +1,4 @@
-# ⚡ Hi there I'm Ahmed Ramadan ⚡
+<h1 align="center">⚡ Hi there I'm Ahmed Ramadan ⚡</h1>
 
 <div align="center">
 <img src="https://i.imgur.com/8MupZHY.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="400px"/>
