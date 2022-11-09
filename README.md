@@ -36,7 +36,7 @@ I study Electrical Engineering and have a passion for programming, especially we
 
 ## ⚡️ Front-End Technologies :
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,react,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,react,tailwind,&perline=10)](https://skillicons.dev)
 
 <hr>
 
