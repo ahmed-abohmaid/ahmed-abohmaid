@@ -21,7 +21,6 @@ I study Electrical Engineering and have a passion for programming, especially we
   
   <li> 🧐   Interested in Programming.</li>
   <li> 🎓   Student at the Faculty of Engineering, Ain Shams University, Egypt.</li>
-  <li> 🌱   Currently I work on projects with HTML, css, JS, and Bootstrap.</li>
   <li> ⛵   My Target Is to become a Front End Developer and Electrical Engineer.</li>
 </ul>
 
