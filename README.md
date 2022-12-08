@@ -37,12 +37,19 @@ I study Electrical Engineering and have a passion for programming, especially we
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,js)](https://skillicons.dev)
 
+---
 
 ## ⚡️ Front-End Technologies :
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,react,tailwind,&perline=10)](https://skillicons.dev)
 
-<hr>
+---
+
+## ⚡️ Back-End Technologies :
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,&perline=10)](https://skillicons.dev)
+
+---
 
 <h2 align="center">⚡️ How to reach me ⚡️</h2>
   
