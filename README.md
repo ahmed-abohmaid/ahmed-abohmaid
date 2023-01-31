@@ -28,9 +28,9 @@ I am excited to apply my skills to help teams develop efficient and effective we
 
   <br>
   
-  <li> 🧐   Interested in Programming.</li>
-  <li> 🎓   Student at the Faculty of Engineering, Ain Shams University, Egypt.</li>
-  <li> ⛵   My Target Is to become a Front End Developer and Electrical Engineer.</li>
+  <li>  Interested in Programming.</li>
+  <li>  Student at the Faculty of Engineering, Ain Shams University, Egypt.</li>
+  <li> My Target Is to become a Front End Developer and Electrical Engineer.</li>
 </ul>
 
 <br>
