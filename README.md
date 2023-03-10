@@ -19,22 +19,6 @@ I have the technical knowledge, problem solving skills, organizational skills, a
 
 I am excited to apply my skills to help teams develop efficient and effective web applications and looking forward to hearing more about any opportunities.
 
-<br>
-
-## ⚡ A Few Quick Facts :
-
-
-<ul>
-
-  <br>
-  
-  <li>  Interested in Programming.</li>
-  <li>  Student at the Faculty of Engineering, Ain Shams University, Egypt.</li>
-  <li> My Target Is to become a Front End Developer and Electrical Engineer.</li>
-</ul>
-
-<br>
-
 <hr>
 
 ## ⚡ programming language :
