@@ -7,11 +7,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Ahmed-AboHmaiD" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Ahmed-AboHmaiD" height="150" alt="languages graph"  />
 </div>
 
-## ⚡ About Me :
+## About Me :
 
 I am a Front-end Web Developer with 8 months of professional experience, I am a highly motivated and dedicated individual with a passion for learning and honing my programming skills. I recently completed Udacity's Front-end Web Development Nanodegree program and have strong expertise in HTML, CSS, JavaScript, React, Redux, and Node.js applications. My recent project, a Social Media App called Share-me, is a great example of my skillsets in React, Tailwind CSS, MUI library for masonry layout, and Sanity for the backend, with Google Authenticator for sign-in with Google accounts. 
 
@@ -21,19 +20,19 @@ I am excited to apply my skills to help teams develop efficient and effective we
 
 <hr>
 
-## ⚡ programming language :
+## programming language :
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,js)](https://skillicons.dev)
 
 ---
 
-## ⚡️ Front-End Technologies :
+## Front-End Technologies :
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,react,tailwind,redux,mui,&perline=10)](https://skillicons.dev)
 
 ---
 
-## ⚡️ Back-End Technologies :
+## Back-End Technologies :
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,&perline=10)](https://skillicons.dev)
 
