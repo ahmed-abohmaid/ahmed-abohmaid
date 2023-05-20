@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there I'm Ahmed Ramadan, Frontend developer intern @ ATG </h1>
+<h1 align="center"> Hi there I'm Ahmed Ramadan, Frontend developer </h1>
 
 <div align="center">
 <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400px"/>
@@ -12,7 +12,7 @@
 
 ## About Me :
 
-I am a Front-end Web Developer with 8 months of professional experience, I am a highly motivated and dedicated individual with a passion for learning and honing my programming skills. I recently completed Udacity's Front-end Web Development Nanodegree program and have strong expertise in HTML, CSS, JavaScript, React, Redux, and Node.js applications. My recent project, a Social Media App called Share-me, is a great example of my skillsets in React, Tailwind CSS, MUI library for masonry layout, and Sanity for the backend, with Google Authenticator for sign-in with Google accounts. 
+I am a Front-end Web Developer with 1 year of professional experience, I am a highly motivated and dedicated individual with a passion for learning and honing my programming skills. I recently completed Udacity's Front-end Web Development Nanodegree program and have strong expertise in HTML, CSS, JavaScript, React, Redux, and Node.js applications. My recent project, a Social Media App called Share-me, is a great example of my skillsets in React, Tailwind CSS, MUI library for masonry layout, and Sanity for the backend, with Google Authenticator for sign-in with Google accounts. 
 
 I have the technical knowledge, problem solving skills, organizational skills, and effective communication skills that would be beneficial for any role. Additionally, I understand the importance of collaboration and adapting quickly to any change. I am also study Electrical Engineering at Ain Shams University.
 
