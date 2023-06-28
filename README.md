@@ -18,17 +18,26 @@ I am excited to apply my skills to help teams develop efficient and effective we
 
 ## programming language :
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js)](https://skillicons.dev)
+### JavaScript - TypeScript - C++
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp)](https://skillicons.dev)
 
 ---
 
 ## Front-End Technologies :
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,react,tailwind,redux,mui,&perline=10)](https://skillicons.dev)
+### HTML - CSS - Bootstrap - React JS - Tailwind CSS - Redux - MUI - Farmer Motion - Axios - Figma
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,redux,mui,&perline=10)](https://skillicons.dev)
 
 ---
 
 ## Back-End Technologies :
+
+### Node JS - Express JS
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,&perline=10)](https://skillicons.dev)
 
@@ -39,11 +48,7 @@ I am excited to apply my skills to help teams develop efficient and effective we
 <p align="center">
     <a href="mailto:ahmedmedo.am121212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
     <a href="https://linkedin.com/in/ahmed-abohmaid"alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.facebook.com/abohmaid13" alt="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://github.com/Ahmed-AboHmaiD" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
-</p>
+    <a href="https://twitter.com/ahmed_abohmaid" alt="Twitter"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fahmed_abohmaid"></a>
 
 </p>
