@@ -19,6 +19,7 @@ I am excited to apply my skills to help teams develop efficient and effective we
 ## Programming Language Skills:
 
 ### JavaScript - TypeScript - C++
+
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp)](https://skillicons.dev)
@@ -28,6 +29,7 @@ I am excited to apply my skills to help teams develop efficient and effective we
 ## Front-End Skills:
 
 ### HTML - CSS - Bootstrap - React JS - Tailwind CSS - Redux - MUI - Farmer Motion - Axios - Figma
+
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,redux,mui,&perline=10)](https://skillicons.dev)
@@ -37,6 +39,7 @@ I am excited to apply my skills to help teams develop efficient and effective we
 ## Back-End Skills [Beginner]:
 
 ### Node JS - Express JS
+
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,&perline=10)](https://skillicons.dev)
