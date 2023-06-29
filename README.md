@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there I'm Ahmed Ramadan, Frontend developer </h1>
+<h1 align="center"> Hello there I'm Ahmed Ramadan, Front-End Developer </h1>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 ## About Me :
 
-I am a Front-end Web Developer with 1 year of professional experience, I am a highly motivated and dedicated individual with a passion for learning and honing my programming skills. I recently completed Udacity's Front-end Web Development Nanodegree program and have strong expertise in HTML, CSS, JavaScript, React, Redux, and Node.js applications. My recent project, a Social Media App called Share-me, is a great example of my skillsets in React, Tailwind CSS, MUI library for masonry layout, and Sanity for the backend, with Google Authenticator for sign-in with Google accounts. 
+I am a Front-end Web Developer with 1.5 years of professional experience, I am a highly motivated and dedicated individual with a passion for learning and honing my programming skills. I recently completed Udacity's Front-end Web Development Nanodegree program and have strong expertise in HTML, CSS, JavaScript, React, Redux, and Node.js applications. My recent project, a Social Media App called Share-me, is a great example of my skillsets in React, Tailwind CSS, MUI library for masonry layout, and Sanity for the backend, with Google Authenticator for sign-in with Google accounts. 
 
 I have the technical knowledge, problem solving skills, organizational skills, and effective communication skills that would be beneficial for any role. Additionally, I understand the importance of collaboration and adapting quickly to any change. I am also study Electrical Engineering at Ain Shams University.
 
@@ -16,7 +16,7 @@ I am excited to apply my skills to help teams develop efficient and effective we
 
 <hr>
 
-## programming language :
+## Programming Language Skills:
 
 ### JavaScript - TypeScript - C++
 <br>
@@ -25,7 +25,7 @@ I am excited to apply my skills to help teams develop efficient and effective we
 
 ---
 
-## Front-End Technologies :
+## Front-End Skills:
 
 ### HTML - CSS - Bootstrap - React JS - Tailwind CSS - Redux - MUI - Farmer Motion - Axios - Figma
 <br>
@@ -34,7 +34,7 @@ I am excited to apply my skills to help teams develop efficient and effective we
 
 ---
 
-## Back-End Technologies :
+## Back-End Skills [Beginner]:
 
 ### Node JS - Express JS
 <br>
