@@ -8,7 +8,7 @@
 
 ## 🚀 About Me:
 
-I am a Front-end Web Developer with 1.5 years of professional experience, I am a highly motivated and dedicated individual with a passion for learning and honing my programming skills. I recently completed Udacity's Front-end Web Development Nanodegree program and have strong expertise in HTML, CSS, JavaScript, React, Redux, and Node.js applications. My recent project, a Social Media App called Share-me, is a great example of my skillsets in React, Tailwind CSS, MUI library for masonry layout, and Sanity for the backend, with Google Authenticator for sign-in with Google accounts. 
+I am a Front-end Web Developer, a highly motivated and dedicated individual with a passion for learning and honing my programming skills. I recently completed Udacity's Front-end Web Development Nanodegree program and have strong expertise in HTML, CSS, JavaScript, React, Redux, and Node.js applications. My recent project, a Social Media App called Share-me, is a great example of my skillsets in React, Tailwind CSS, MUI library for masonry layout, and Sanity for the backend, with Google Authenticator for sign-in with Google accounts. 
 
 I have the technical knowledge, problem solving skills, organizational skills, and effective communication skills that would be beneficial for any role. Additionally, I understand the importance of collaboration and adapting quickly to any change. I am also study Electrical Engineering at Ain Shams University.
 
