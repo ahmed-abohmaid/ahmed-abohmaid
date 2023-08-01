@@ -18,11 +18,11 @@ I am excited to apply my skills to help teams develop efficient and effective we
 
 ## 🛠 Programming Language Skills:
 
-### • JavaScript - TypeScript - C++
+### • JavaScript - C++
 
 ## 🛠 Front-End Skills:
 
-### • HTML - CSS - Bootstrap - React JS - Tailwind CSS - Redux - MUI - Farmer Motion - Axios - Figma
+### • HTML - CSS - React JS - Redux - TypeScript - Tailwind CSS - Bootstrap - MUI - Farmer Motion - Axios - Figma
 
 ## 🛠 Back-End Skills [Beginner]:
 
