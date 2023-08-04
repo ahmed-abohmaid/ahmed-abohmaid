@@ -1,11 +1,5 @@
 <h1 align="center"> Hello there I'm Ahmed Ramadan, Front-End Developer </h1>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ahmed-abohmaid" height="150" alt="languages graph"  />
-</div>
-
 ## 🚀 About Me:
 
 I am a Front-end Web Developer, a highly motivated and dedicated individual with a passion for learning and honing my programming skills. I am driven by my passion for programming and an insatiable curiosity about the web world, I have immersed myself in the realm of front-end development. This field has become my burning desire as I continually expand my expertise and learning. Additionally, my enthusiasm for learning physics, mathematics, and the captivating world of electronics has further propelled me to become an electrical engineering student.
