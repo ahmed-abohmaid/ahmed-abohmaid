@@ -12,7 +12,7 @@ I am excited to apply my skills to help teams develop efficient and effective we
 
 ## 🛠 Programming Language Skills:
 
-### • JavaScript - C++
+### • JavaScript - C++ - C
 
 ## 🛠 Front-End Skills:
 
@@ -24,7 +24,7 @@ I am excited to apply my skills to help teams develop efficient and effective we
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,redux,mui,figma&perline=10)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,&perline=10)](https://skillicons.dev)
 
