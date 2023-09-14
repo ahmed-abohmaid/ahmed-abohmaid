@@ -1,6 +1,10 @@
 <h1 align="center">I'm Ahmed Ramadan A Front-End Developer</h1>
 
-👋 Hello! I'm an Electrical Engineering student with a deep passion for programming and a strong enthusiasm for Embedded Systems. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"> 
+<div align="center">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60">
+</div>
+
+👋 Hello! I'm an Electrical Engineering student with a deep passion for programming and a strong enthusiasm for Embedded Systems.
 
 💻 As a dedicated programmer, I'm eager to leverage my skills to contribute to web application development projects. I believe in crafting efficient and effective solutions that enhance user experiences and drive meaningful outcomes.
 
