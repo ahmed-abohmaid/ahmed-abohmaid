@@ -22,7 +22,7 @@
 
 ## 🛠 Programming Language Skills:
 
-### • JavaScript - C++ - C
+### • JavaScript - C++ - C - MATLAB
 
 ## 🛠 Front-End Skills:
 
@@ -34,7 +34,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c,matlab)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,next,tailwind,redux,mui,figma&perline=10)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,&perline=10)](https://skillicons.dev)
 
