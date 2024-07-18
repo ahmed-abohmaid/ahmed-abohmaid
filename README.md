@@ -26,17 +26,17 @@
 
 ## 🛠 Front-End Skills:
 
-### • HTML - CSS - React JS - Next JS - Redux - TypeScript - Tailwind CSS - Bootstrap - MUI - Farmer Motion - Axios - Figma
+### • HTML - CSS - Javascript - TypeScript - React JS - Next JS - Redux - Vue JS  - Tailwind CSS - Bootstrap - MUI - Farmer Motion - Axios - Figma
 
-## 🛠 Back-End Skills [Beginner]:
+## 🛠 Back-End Skills (Very Basic):
 
 ### • Node JS - Express JS
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c,matlab)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,next,tailwind,redux,mui,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,vue,bootstrap,tailwind,mui&perline=11)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,matlab)](https://skillicons.dev)
 
 ---
 
