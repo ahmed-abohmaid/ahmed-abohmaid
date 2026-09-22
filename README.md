@@ -18,13 +18,13 @@
 
 ---
 
-### 🚀 About Me
+### About Me 🙌
 
-- 💻 **Front-End Engineering:** 3+ years of experience delivering production-grade CRM, EdTech, and e-commerce platforms using **React.js, Next.js, TanStack Start, Vue.js, and Nuxt.js**[cite: 1].
-- 🏗️ **Architecture & State Management:** Specialized in **Feature-Sliced Design (FSD)**[cite: 1], monorepo architectures[cite: 1], and state migrations (**Redux → Zustand & TanStack Query**)[cite: 1].
-- ⚡ **Real-Time & Interactive Systems:** Experienced in implementing **Socket.io, WebSockets, and Server-Sent Events (SSE)** for real-time messaging, AI streaming, and dynamic UI interactions[cite: 1].
-- 🤖 **AI Integration & Workflows:** Leveraging tools like **Vercel AI SDK, Claude Code, and GitHub Copilot** to automate construction workflows, parse CAD data, and streamline frontend delivery[cite: 1].
-- 🎓 **Background & Community:** B.Sc. in Electrical Power Engineering from Ain Shams University[cite: 1]; former Front-End Instructor at IEEE ASUSB[cite: 1].
+- **Front-End Engineering:** 3+ years of experience delivering production-grade CRM, EdTech, and e-commerce platforms using **React.js, Next.js, TanStack Start, Vue.js, and Nuxt.js**.
+- **Architecture & State Management:** Specialized in **Feature-Sliced Design (FSD)**, monorepo architectures, and state migrations (**Redux → Zustand & TanStack Query**).
+- **Real-Time & Interactive Systems:** Experienced in implementing **Socket.io, WebSockets, and Server-Sent Events (SSE)** for real-time messaging, AI streaming, and dynamic UI interactions.
+- **AI Integration & Workflows:** Leveraging tools like **Vercel AI SDK, Claude Code, and GitHub Copilot** to automate construction workflows, parse CAD data, and streamline frontend delivery.
+- **Background & Community:** B.Sc. in Electrical Power Engineering from Ain Shams University; former Front-End Instructor at IEEE ASUSB.
 
 ---
 
