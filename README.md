@@ -45,8 +45,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Architecture & Tooling**  
-![Feature-Sliced Design](https://img.shields.io/badge/Architecture-FSD-blue?style=flat-square)
+**Tooling**  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -54,7 +53,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,vue,nuxt,tailwind,redux,git,bash,figma&perline=11" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,vue,tailwind,git,figma,jest,nodejs,mongo&perline=11" alt="Skills Icons" />
 </p>
 
 ---
